@@ -9,3 +9,5 @@
 I unfortunately do not have a lot of technical background in regards to jobs. However, I have taken the basic courses at GRCC and GVSU, so I have basic experience with: Python, Java, and C. 
 
 With my hobbies, I have experience using Linux, setting up a VPN for monitoring my 3d prints, and running/managing various game servers for my friends.
+
+Here is a [meme](https://tenor.com/view/petter-griffin-falling-of-the-stairs-nosolohit-gif-17661397000889481231)
